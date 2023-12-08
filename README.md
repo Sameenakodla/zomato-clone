@@ -1,2 +1,2 @@
-# zomato-clone
-simple zomato clone using html and css
+# zomatofood.github.io
+zomatofood
